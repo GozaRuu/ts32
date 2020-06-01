@@ -1,3 +1,3 @@
-# Tstrap
+# TS32
 
-Pre-configured nodejs, typescript, eslint, jest, github-actions CI boilerplate project.
+win-32 apps written in typescript
